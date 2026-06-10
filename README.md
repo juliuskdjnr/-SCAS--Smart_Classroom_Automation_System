@@ -150,4 +150,4 @@ Built by a team of 4 students as a semester capstone project at **Academic City 
  
 ## Documentation
  
-The full system design, methodology, testing, and results are documented in an IEEE-format technical report — see [`/docs/ieee_report.pdf`](./docs/ieee_report.pdf).
+The full system design, methodology, testing, and results are documented in an IEEE-format technical report — see [`/docs/Project_Report.pdf`](./docs/Project_Report.pdf).
